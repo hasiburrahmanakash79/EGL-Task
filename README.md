@@ -32,5 +32,4 @@ This is a backend implementation for the technical task assigned by Everything G
 ## **Setup Instructions**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/backend-task.git
-   cd backend-task
+   git clone https://github.com/hasiburrahmanakash79/EGL-Task
